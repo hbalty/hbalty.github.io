@@ -1,0 +1,21 @@
+.article{
+    float: left;
+    width: 700px;
+}
+
+
+.p-article{
+    text-align: justify;
+}
+
+small .date{
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+
+.banner{
+    margin-bottom: 1rem;
+    display: block;
+}
